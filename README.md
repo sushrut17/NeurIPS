@@ -1,2 +1,2 @@
 # NeurIPS
-Our official entry to the Neural Information Processing Systems conference
+Our official entries to the Neural Information Processing Systems conference
